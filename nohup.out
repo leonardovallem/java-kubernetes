@@ -1,0 +1,58 @@
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+
+(java:29136): Gtk-WARNING **: 17:44:39.895: Theme parsing error: gtk-dark.css:6361:24: 'none' is not a valid color name
+
+(java:29136): Gtk-WARNING **: 17:44:41.690: Theme parsing error: gtk.css:6361:24: 'none' is not a valid color name
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+
+(java:29438): Gtk-WARNING **: 17:44:52.302: Theme parsing error: gtk-dark.css:6361:24: 'none' is not a valid color name
+
+(java:29438): Gtk-WARNING **: 17:44:53.101: Theme parsing error: gtk.css:6361:24: 'none' is not a valid color name
+2021-04-15 17:45:43,080 [  51063]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 18610ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-174529-IC-203.7148.57-ProjectFrameHelper.init-18sec 
+2021-04-15 17:46:33,269 [ 101252]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7050ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-174631-IC-203.7148.57-CefApp.N_Initialize-7sec 
+2021-04-15 17:47:28,287 [ 156270]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 11681ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-174721-IC-203.7148.57-StartupManagerImpl.runStartupActivity-11sec 
+2021-04-15 18:00:30,564 [ 938547]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 8471ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-180027-IC-203.7148.57-Unsafe.park-8sec 
+[0415/180213.295805:FATAL:gpu_data_manager_impl_private.cc(439)] GPU process isn't usable. Goodbye.
+/home/leonardovallem/Packages/idea-IC-203.7148.57/bin/idea.sh, linha 230: 29438 Morto                   "$JAVA_BIN" -classpath "$CLASSPATH" ${VM_OPTIONS} "-XX:ErrorFile=$HOME/java_error_in_idea_%p.log" "-XX:HeapDumpPath=$HOME/java_error_in_idea_.hprof" "-Didea.vendor.name=${PRODUCT_VENDOR}" "-Didea.paths.selector=${PATHS_SELECTOR}" "-Djb.vmOptionsFile=$VM_OPTIONS_FILE" ${IDE_PROPERTIES_PROPERTY} -Didea.platform.prefix=Idea -Didea.jre.check=true com.intellij.idea.Main "$@"
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+
+(java:43312): Gtk-WARNING **: 18:14:18.913: Theme parsing error: gtk-dark.css:6361:24: 'none' is not a valid color name
+
+(java:43312): Gtk-WARNING **: 18:15:20.665: Theme parsing error: gtk.css:6361:24: 'none' is not a valid color name
+2021-04-15 18:16:26,078 [ 130101]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 35273ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-181555-IC-203.7148.57-DefaultProjectUiFrameManager.doInit-35sec 
+2021-04-15 18:16:44,601 [ 148624]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 12748ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-181636-IC-203.7148.57-IdeKeyEventDispatcher.updateCurrentContext-12sec 
+2021-04-15 18:17:00,387 [ 164410]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6100ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-181659-IC-203.7148.57-RandomAccessFile.readBytes-6sec 
+2021-04-15 18:17:17,034 [ 181057]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 9756ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-181712-IC-203.7148.57-RandomAccessFile.readBytes-9sec 
+2021-04-15 18:17:37,201 [ 201224]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 9161ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-181733-IC-203.7148.57-BoxView.getMaximumSpan-9sec 
+2021-04-15 18:18:13,736 [ 237759]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 5295ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-181813-IC-203.7148.57-RandomAccessFile.readBytes-5sec 
+2021-04-15 18:18:22,353 [ 246376]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 5486ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-181821-IC-203.7148.57-RandomAccessFile.readBytes-5sec 
+2021-04-15 18:18:49,121 [ 273144]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 21032ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-181833-IC-203.7148.57-ApplicationImpl.runWriteActionWithClass-21sec 
+2021-04-15 18:18:50,098 [ 274121]   WARN - lij.build.BuildTreeConsoleView - start event id collision found:Downloading mysql:mysql-connector-java::8.0.20, was also in node: null 
+2021-04-15 18:19:19,414 [ 303437]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 8031ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-181916-IC-203.7148.57-Unsafe.park-8sec 
+[0415/183008.312333:FATAL:gpu_data_manager_impl_private.cc(439)] GPU process isn't usable. Goodbye.
+/home/leonardovallem/Packages/idea-IC-203.7148.57/bin/idea.sh, linha 230: 43312 Trace/breakpoint trap   (imagem do núcleo gravada)"$JAVA_BIN" -classpath "$CLASSPATH" ${VM_OPTIONS} "-XX:ErrorFile=$HOME/java_error_in_idea_%p.log" "-XX:HeapDumpPath=$HOME/java_error_in_idea_.hprof" "-Didea.vendor.name=${PRODUCT_VENDOR}" "-Didea.paths.selector=${PATHS_SELECTOR}" "-Djb.vmOptionsFile=$VM_OPTIONS_FILE" ${IDE_PROPERTIES_PROPERTY} -Didea.platform.prefix=Idea -Didea.jre.check=true com.intellij.idea.Main "$@"
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+
+(java:54675): Gtk-WARNING **: 18:36:31.785: Theme parsing error: gtk-dark.css:6361:24: 'none' is not a valid color name
+
+(java:54675): Gtk-WARNING **: 18:36:58.099: Theme parsing error: gtk.css:6361:24: 'none' is not a valid color name
+2021-04-15 18:37:59,156 [  88731]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 29726ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-183734-IC-203.7148.57-DefaultProjectUiFrameManager.doInit-29sec 
+2021-04-15 18:38:59,873 [ 149448]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6509ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-183858-IC-203.7148.57-RandomAccessFile.readBytes-6sec 
+2021-04-15 18:39:12,176 [ 161751]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 11546ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-183905-IC-203.7148.57-JCEFHtmlPanel._clinit_-11sec 
+2021-04-15 19:06:06,389 [1775964]   WARN - penapi.actionSystem.impl.Utils - Skipping empty menu item for action  () of class org.intellij.lang.xpath.xslt.associations.impl.AssociationsGroup 
+2021-04-15 19:06:06,948 [1776523]   WARN - ystem.impl.ActionPopupMenuImpl - 23660ms to fill popup menu ProjectViewPopup 
+2021-04-15 19:06:08,757 [1778332]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 25987ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-190547-IC-203.7148.57-ActionPopupMenuImpl_MyMenu.show-25sec 
+[0415/190720.925511:FATAL:gpu_data_manager_impl_private.cc(439)] GPU process isn't usable. Goodbye.
+/home/leonardovallem/Packages/idea-IC-203.7148.57/bin/idea.sh, linha 230: 54675 Trace/breakpoint trap   (imagem do núcleo gravada)"$JAVA_BIN" -classpath "$CLASSPATH" ${VM_OPTIONS} "-XX:ErrorFile=$HOME/java_error_in_idea_%p.log" "-XX:HeapDumpPath=$HOME/java_error_in_idea_.hprof" "-Didea.vendor.name=${PRODUCT_VENDOR}" "-Didea.paths.selector=${PATHS_SELECTOR}" "-Djb.vmOptionsFile=$VM_OPTIONS_FILE" ${IDE_PROPERTIES_PROPERTY} -Didea.platform.prefix=Idea -Didea.jre.check=true com.intellij.idea.Main "$@"
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+
+(java:71989): Gtk-WARNING **: 19:15:28.953: Theme parsing error: gtk-dark.css:6361:24: 'none' is not a valid color name
+
+(java:71989): Gtk-WARNING **: 19:15:44.840: Theme parsing error: gtk.css:6361:24: 'none' is not a valid color name
+2021-04-15 19:16:31,024 [  64229]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 17522ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-191618-IC-203.7148.57-IdeMenuBar.doUpdateMenuActions-17sec 
+2021-04-15 19:17:16,486 [ 109691]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 12784ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-191708-IC-203.7148.57-ProjectFrameHelper.setProject-12sec 
+2021-04-15 19:50:01,377 [2074582]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7705ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210415-194958-IC-203.7148.57-RandomAccessFile.readBytes-7sec 
+2021-04-15 19:50:54,215 [2127420]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..va-kubernetes 
+2021-04-15 19:50:54,503 [2127708]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
